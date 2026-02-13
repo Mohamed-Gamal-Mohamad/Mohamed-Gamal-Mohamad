@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center" width="50">
 
-<!--
-**Mohamed-Gamal-Mohamad/Mohamed-Gamal-Mohamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
-Here are some ideas to get you started:
+<h1>Hi, I'm Mohamed Gamal 👋</h1>
+<h3>Flutter Developer 📱</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Gamal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-gamal2050)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201220026377)
+
+</div>
+
+---
+
+## 🚀 About Me
+- 📱 Flutter Developer passionate about building mobile apps
+- 🎯 Interested in clean UI, performance, and scalable apps
+- 📚 Currently improving my skills in Flutter & Backend integration
+- 💬 Ask me about Flutter, Dart, and Mobile Development
+
+---
+
+## 🛠️ Tech Stack
+Languages:  
+Dart • C# • C++ • Python • JavaScript  
+
+Frameworks & Tools:  
+Flutter • Firebase • SQLite • Git • Figma • VS Code  
+
+Other:  
+HTML • CSS • JSON • Linux  
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="45%"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-gamal2050  
+- 📱 WhatsApp: https://wa.me/201220026377  
+
+---
+
+⭐ *Always learning, always building.*
